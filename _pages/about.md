@@ -22,11 +22,11 @@ I am a Ph.D candidate at The Hong Kong Polytechnic University. I obtained my Bac
 My research interest includes non-destructive characterization of terrestrial and non-terrestrial geomaterials.
 
 
-# 🔥 News
+# News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,10 +49,10 @@ My research interest includes non-destructive characterization of terrestrial an
 - *2018.10* Student Leadership Award, Zhejiang University
 
 # Education
-- *2021.08 - now*, Doctor of Philosophy, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR (China).
+- *2021.08 - Now*, Doctor of Philosophy, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR (China).
 - *2017.09 - 2021.07*, Bachelor of Engineering, Zhejiang University, Hangzhou, China.
 
-- # Academic Appointments
+# Academic Appointments
 - *2024.04 - 2024.11*, Visiting Scholar, Department of Physics and Astronomy, Purdue University, West Lafayette, USA
 - *2020.08 - 2021.07*, Research Intern, School of Engineering, Westlake University, Hangzhou, China.
 
