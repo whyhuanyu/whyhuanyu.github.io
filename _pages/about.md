@@ -23,8 +23,8 @@ My research interest includes non-destructive characterization of terrestrial an
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2022.02: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2022.02: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
 
@@ -43,19 +43,19 @@ My research interest includes non-destructive characterization of terrestrial an
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
-- *2023.05* Best Poster Presentation Award in PAIR Conference 2023 (Deep Space Explorations Session)
-- *2021.07* Outstanding Graduate of Zhejiang University
-- *2018.10* Academic Excellence Award, Zhejiang University
-- *2018.10* Student Leadership Award, Zhejiang University
+- 2023.05 Best Poster Presentation Award in PAIR Conference 2023 (Deep Space Explorations Session)
+- 2021.07 Outstanding Graduate of Zhejiang University
+- 2018.10 Academic Excellence Award, Zhejiang University
+- 2018.10 Student Leadership Award, Zhejiang University
 
 # Education
-- *2021.08 - Now*, Doctor of Philosophy, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR (China).
-- *2017.09 - 2021.07*, Bachelor of Engineering, Zhejiang University, Hangzhou, China.
+- 2021.08 - Now, Doctor of Philosophy, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR (China).
+- 2017.09 - 2021.07, Bachelor of Engineering, Zhejiang University, Hangzhou, China.
 
 # Academic Appointments
-- *2024.04 - 2024.11*, Visiting Scholar, Department of Physics and Astronomy, Purdue University, West Lafayette, USA
-- *2020.08 - 2021.07*, Research Intern, School of Engineering, Westlake University, Hangzhou, China.
+- 2024.04 - 2024.11, Visiting Scholar, Department of Physics and Astronomy, Purdue University, West Lafayette, USA
+- 2020.08 - 2021.07, Research Intern, School of Engineering, Westlake University, Hangzhou, China.
 
 # Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2021.06, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021.03, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
