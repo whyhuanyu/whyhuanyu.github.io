@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D candidate at The Hong Kong Polytechnic University. I obtained my Bachelor degree from Zhejiang University in 2021. Currently I am a visiting scholar in Purdue University.
 
-My research interest includes digital rock mechanics.
+My research interest includes non-destructive characterization of terrestrial and non-terrestrial geomaterials.
 
 
 # 🔥 News
@@ -42,17 +42,20 @@ My research interest includes digital rock mechanics.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Honors and Awards
+- *2023.05* Best Poster Presentation Award in PAIR Conference 2023 (Deep Space Explorations Session)
+- *2021.07* Outstanding Graduate of Zhejiang University
+- *2018.10* Academic Excellence Award, Zhejiang University
+- *2018.10* Student Leadership Award, Zhejiang University
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Education
+- *2021.08 - now*, Doctor of Philosophy, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR (China).
+- *2017.09 - 2021.07*, Bachelor of Engineering, Zhejiang University, Hangzhou, China.
 
-# 💬 Invited Talks
+- # Academic Appointments
+- *2024.04 - 2024.11*, Visiting Scholar, Department of Physics and Astronomy, Purdue University, West Lafayette, USA
+- *2020.08 - 2021.07*, Research Intern, School of Engineering, Westlake University, Hangzhou, China.
+
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
